@@ -2,7 +2,7 @@ import random
 
 for i in range(10):
     x = random.randint(1,6)
-    print(str(i+1)+"回目："+str(x))
+    println(str(i+1)+"回目："+str(x))
 
 # 期待される出力結果例
 """
